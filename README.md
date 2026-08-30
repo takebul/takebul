@@ -11,7 +11,7 @@ I am a **Full-Stack Web Developer** who specializes in complex logic building, w
 - 💻 **Core Expertise:** Building full-stack web platforms using **React 19**, **Next.js**, **Tailwind CSS v4**, and **Node.js**.
 - 🧠 **Superpower:** Solving high-level application logic, optimizing speed/render times, and architectural design.
 - ⚡ **Full-Stack Capabilities:** Integrating clean frontends with robust backends (**Express.js**, **MongoDB**), authentication (**Better-Auth**), and payment gateways (**Stripe**).
-- 🎯 **Focus:** Elevating product quality through clean code, scalable features, and eye-catching interface components.
+- 🎯 **Focus:** Elevating web application quality through clean code, scalable features, and eye-catching interface components.
 
 ---
 
