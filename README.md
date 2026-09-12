@@ -94,7 +94,7 @@
 
 - **Live Site:** [tutor-booking-client.vercel.app](https://tutor-booking-client.vercel.app)
 - **Client Code:** [github.com/takebul/tutor-booking-client](https://github.com/takebul/tutor-booking-client)
-- **Server Code:** [github.com/takebul/tutor-booking-client](https://github.com/takebul/tutor-booking-client)
+- **Server Code:** [github.com/takebul/tutor-booking-server](https://github.com/takebul/tutor-booking-server)
 - **Tech Stack:** Next.js, React, Node.js, Express.js, MongoDB Atlas, Better Auth, Remote JWKS, Swiper.js, Tailwind CSS.
 - **Key Feats:** Real-time schedule conflict validation, MongoDB `$regex` and range queries, and stateless JWT with remote JWKS keysets.
 
