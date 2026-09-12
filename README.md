@@ -1,6 +1,6 @@
 <!--- banner --->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/takebul/takebul/main/banner.png?v=2.0" alt="Takebul Islam — Full Stack Web Developer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/takebul/takebul/main/banner.png?v=3.0" alt="Takebul Islam — Full Stack Web Developer Banner" width="100%">
 </div>
 
 <br/>
@@ -112,16 +112,22 @@
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Statistics & Top Languages:
+### GitHub Contributions:
 
 <p align="center">
-  <a href="https://github.com/takebul">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=takebul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Takebul's GitHub Stats" />
-  </a>
-  <a href="https://github.com/takebul">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=takebul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Takebul's Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/takebul/takebul/main/assets/grid.svg" alt="Takebul's GitHub Contribution Grid Snake" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-500%2B-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="500+ Total Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total%20Commits-870%2B-6366f1?style=for-the-badge&logo=git&logoColor=white" alt="870+ Total Commits" />
+</p>
+
+### GitHub Statistics:
+
+| <a><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=takebul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Statistics" /></a> | <a><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=takebul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a> |
+| :---: | :---: |
 
 ### Contribution Streak Stats:
 
@@ -138,7 +144,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote: First, solve the problem. Then, write the code. - John Johnson" />
 </p>
 
 ---
