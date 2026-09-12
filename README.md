@@ -1,6 +1,6 @@
 <!--- banner --->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/takebul/takebul/main/banner.png?v=3.0" alt="Takebul Islam — Full Stack Web Developer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/takebul/takebul/main/banner.png?v=4.0" alt="Takebul Islam — Full Stack Web Developer Banner" width="100%">
 </div>
 
 <br/>
@@ -133,6 +133,16 @@
 
 <p align="center">
   <a href="https://github.com/takebul">
+    <img src="https://img.shields.io/badge/Streak_Contributions-500%2B-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="500+ Contributions" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Longest_Streak-20%2B_Days-38bdf8?style=for-the-badge&logo=fire&logoColor=white" alt="20+ Days Streak" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Total_Commits-870%2B-818cf8?style=for-the-badge&logo=git&logoColor=white" alt="870+ Commits" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/takebul">
     <img src="https://streak-stats.demolab.com/?user=takebul&theme=tokyonight&hide_border=true" alt="Takebul's GitHub Streak" />
   </a>
 </p>
@@ -144,7 +154,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote: First, solve the problem. Then, write the code. - John Johnson" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Dev Quote: Good programmers write code that humans can understand. - Martin Fowler" />
 </p>
 
 ---
