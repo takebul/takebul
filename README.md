@@ -1,6 +1,6 @@
 <!--- banner --->
 <div align="center">
-  <img src="./banner.png" alt="Takebul Islam — Full Stack Web Developer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/takebul/takebul/main/banner.png?v=2.0" alt="Takebul Islam — Full Stack Web Developer Banner" width="100%">
 </div>
 
 <br/>
