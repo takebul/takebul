@@ -1,188 +1,121 @@
+<!--- banner --->
 <div align="center">
-
-  <!-- Custom High-Resolution Profile Banner -->
-  <img src="banner.png" alt="Takebul Islam — Full-Stack Web Developer & Feature Architect" width="100%" />
-
-  <br />
-  <br />
-
-  <!-- Status & Tech Badges -->
-  <p align="center">
-    <a href="https://takebulislam.dev">
-      <img src="https://img.shields.io/badge/Status-Available%20for%20Hire%20%2F%20Contracts-00f2fe?style=for-the-badge&logo=statuspage&logoColor=white" alt="Hiring Status" />
-    </a>
-    <a href="https://nextjs.org">
-      <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-    </a>
-    <a href="https://react.dev">
-      <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-    </a>
-    <a href="https://nodejs.org">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    </a>
-    <a href="https://expressjs.com">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    </a>
-    <a href="https://www.mongodb.com/atlas">
-      <img src="https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
-    </a>
-    <a href="https://tailwindcss.com">
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </a>
-    <a href="https://stripe.com">
-      <img src="https://img.shields.io/badge/Stripe_API-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe API" />
-    </a>
-  </p>
-
-  <!-- Navigation Pill Links -->
-  <p align="center">
-    <a href="https://takebulislam.dev"><b>🌐 Live Portfolio</b></a> •
-    <a href="https://docs.google.com/document/d/1WRY3zXw2sC7Yz-AT9gkw7APiPQ5o9vRXBxy0EzppeZY"><b>📄 View Resume</b></a> •
-    <a href="https://www.linkedin.com/in/takebulislam"><b>💼 LinkedIn Profile</b></a> •
-    <a href="mailto:takebulislam@gmail.com"><b>📫 Direct Email</b></a> •
-    <a href="tel:+8801799439775"><b>📱 WhatsApp / Call</b></a>
-  </p>
-
-  <p align="center">
-    <strong>Architecting complex application logic, high-performance web platforms, and resilient RESTful APIs.</strong>
-  </p>
-
+  <img src="./banner.png" alt="Takebul Islam — Full Stack Web Developer Banner" width="100%">
 </div>
 
----
+<br/>
 
-## 👨‍💻 Executive Summary for Recruiters & Engineering Leads
+<!--- title & typing svg --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Takebul Islam</h1></summary>
+    <!--- animated typing headline --->
+    <a href="https://takebulislam.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;React+19+%26+Next.js+16+Specialist;Node.js+%26+Express.js+Architect;Building+Scalable+Logic+%26+Clean+APIs" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-Hi! I'm **Takebul Islam**, a Full-Stack Web Developer & Feature Architect based in Bangladesh, available for worldwide remote or hybrid roles.
+<br/>
 
-I specialize in elevating standard ideas into **production-grade digital platforms** using the modern JavaScript & TypeScript ecosystem (**React 19, Next.js 16, Node.js, Express.js, and MongoDB Atlas**).
+<!--- about --->
+- 👋 Hi, I’m **[@takebul](https://github.com/takebul)** (Takebul Islam)
+- 🖥️ I’m currently architecting frontend systems with **React 19, Next.js 16, JavaScript (ES6+), and Tailwind CSS v4**.
+- 🗄️ Using **Node.js, Express.js, MongoDB Atlas, and REST APIs** for resilient microservices and backend databases.
+- 🔐 Skilled in implementing **Better Auth, Stateless JWT with Remote JWKS, and Stripe Subscription Payments with Webhooks**.
+- ⚡ Specializing in **complex business logic, Role-Based Access Control (RBAC), and 60fps kinetic UI physics**.
+- 🌐 Explore My Live Portfolio: **[takebulislam.vercel.app](https://takebulislam.vercel.app)**
+- 📄 Check out My **[Interactive Resume](https://docs.google.com/document/d/1WRY3zXw2sC7Yz-AT9gkw7APiPQ5o9vRXBxy0EzppeZY)**
+- 📱 Direct Call or WhatsApp: **[+880 1799-439775](https://wa.me/8801799439775)**
+- 📫 Feel free to reach me out at **[takebulislam@gmail.com](mailto:takebulislam@gmail.com)**
+  
+<br/>
 
-### 🌟 Why Hire Takebul?
-* **Full-Lifecycle Ownership:** Experienced across the complete engineering cycle—from Figma wireframes and atomic component design to normalized database modeling, RESTful controllers, token authentication, and edge deployments.
-* **Production-Grade Security:** Deep practical experience implementing Role-Based Access Control (RBAC), Google OAuth, Better Auth with remote JWKS stateless verification, and Stripe subscription webhook handlers.
-* **Performance & Kinetic Flow:** Obsessed with sub-second page loads, 60fps kinetic scrolling with Lenis + GSAP ticker synchronization, and clean responsive CSS architectures without bloat.
-* **Architectural Cleanliness:** Rigorous separation of concerns (MVC architecture, custom React hooks, validated forms, error boundaries, and defensive backend controllers).
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
----
+<div>
+  <p align="left">
+    <a href="https://linkedin.com/in/takebulislam" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" width="40" /></a>
+    <a href="https://wa.me/8801799439775" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" height="32" width="40" /></a>
+    <a href="https://takebulislam.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="32" width="40" /></a>
+    <a href="https://github.com/takebul" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="32" width="40" /></a>
+    <a href="mailto:takebulislam@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="32" width="40" /></a>
+  </p>
+</div>
 
-## 🚀 Featured Production Projects
+<br/>
 
-Here are three full-stack platforms showcasing architectural versatility, authentication patterns, and real-world business logic:
+<!--- technology stack --->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/takebul)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/takebul)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/takebul)
+
+### Database & Cloud Storage:
+[![Database & Cloud](https://skillicons.dev/icons?i=mongodb)](https://github.com/takebul)
+
+### Deployment Platforms:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/takebul)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman,npm)](https://github.com/takebul)
+
+<br/>
+
+<!--- featured production projects --->
+## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="30"><b> FEATURED PRODUCTION PROJECTS:</b>
 
 ### 1. 🏢 StartupForge — Two-Sided Founder & Collaborator Marketplace
-> *A high-throughput platform connecting startup founders with specialized talent, featuring role-based dashboards, Stripe subscription monetization, and real-time telemetry.*
-
-* **🌐 Live Demo:** [startupforgelimited.vercel.app](https://startupforgelimited.vercel.app)
-* **💻 Client Repository:** [github.com/takebul/startup-forge-client](https://github.com/takebul/startup-forge-client)
-* **⚙️ Server Repository:** [github.com/takebul/startup-forge-server](https://github.com/takebul/startup-forge-server)
+* **Live Site:** [startupforgelimited.vercel.app](https://startupforgelimited.vercel.app)
+* **Client Code:** [github.com/takebul/startup-forge-client](https://github.com/takebul/startup-forge-client)
+* **Server Code:** [github.com/takebul/startup-forge-server](https://github.com/takebul/startup-forge-server)
 * **Tech Stack:** Next.js 16, React 19, Node.js, Express.js, MongoDB Atlas, Better Auth, Stripe, Recharts, Framer Motion, Tailwind CSS.
-
-#### Technical Highlights:
-* **Two-Sided Role-Based Architecture:** Engineered dedicated UX portals for **Founders**, **Collaborators**, and **Admins** with dynamic route protection and real-time Recharts analytics.
-* **Granular RBAC Security Middleware:** Implemented server-side token validation and authorization interceptors in Express.js, enforcing mandatory profile completeness before application dispatch.
-* **Stripe Automated Webhook Monetization:** Built an end-to-end subscription pipeline with Stripe webhooks to dynamically upgrade user tier quotas, award verified badges, and trigger transactional workflows.
-* **Admin Management Telemetry Suite:** Centralized moderation interface providing platform health metrics, startup listing approval queues, and account state controls (ban/unban).
-
----
+* **Key Feats:** Role-based dashboards (Founder, Collaborator, Admin), strict RBAC token middleware, and Stripe automated subscription webhooks.
 
 ### 2. 🎓 TutorBook — Verified On-Demand Tutor Booking Platform
-> *An on-demand educational discovery engine enabling students to locate verified subject specialists, validate schedule availability, and execute conflict-free bookings.*
-
-* **🌐 Live Demo:** [tutor-booking-client.vercel.app](https://tutor-booking-client.vercel.app)
-* **💻 Client Repository:** [github.com/takebul/tutor-booking-client](https://github.com/takebul/tutor-booking-client)
-* **⚙️ Server Repository:** [github.com/takebul/tutor-booking-client](https://github.com/takebul/tutor-booking-client)
+* **Live Site:** [tutor-booking-client.vercel.app](https://tutor-booking-client.vercel.app)
+* **Client Code:** [github.com/takebul/tutor-booking-client](https://github.com/takebul/tutor-booking-client)
+* **Server Code:** [github.com/takebul/tutor-booking-client](https://github.com/takebul/tutor-booking-client)
 * **Tech Stack:** Next.js, React, Node.js, Express.js, MongoDB Atlas, Better Auth, Remote JWKS, Swiper.js, Tailwind CSS.
-
-#### Technical Highlights:
-* **Slot Conflict Validation Engine:** Built robust server-side validation ensuring no duplicate booking collisions occur for the same educator across overlapping hourly time slots.
-* **High-Throughput MongoDB Indexing & Filtering:** Implemented efficient `$regex` query indexing combined with `$gte`/`$lte` compound filtering for instant tutor discovery by subject, price range, and student rating.
-* **Stateless Authentication with Remote JWKS:** Integrated Better Auth with Google OAuth & Email credentials, verifying stateless JWTs through remote JWKS public key sets for multi-device session security.
-
----
+* **Key Feats:** Real-time schedule conflict validation, MongoDB `$regex` and range queries, and stateless JWT with remote JWKS keysets.
 
 ### 3. 📚 Mango Books — Digital Library & Book Lending Platform
-> *A community-driven digital book sanctuary featuring 45+ categorized literary titles, zero-fee lending lifecycles, and interactive member reading portals.*
-
-* **🌐 Live Demo:** [mango-books-platform.vercel.app](https://mango-books-platform.vercel.app)
-* **💻 Client Repository:** [github.com/takebul/mango](https://github.com/takebul/mango)
-* **⚙️ Server Repository:** [github.com/takebul/mango-json-server](https://github.com/takebul/mango-json-server)
+* **Live Site:** [mango-books-platform.vercel.app](https://mango-books-platform.vercel.app)
+* **Client Code:** [github.com/takebul/mango](https://github.com/takebul/mango)
+* **Server Code:** [github.com/takebul/mango-json-server](https://github.com/takebul/mango-json-server)
 * **Tech Stack:** React, Node.js, Express.js, Tailwind CSS, DaisyUI, Framer Motion.
+* **Key Feats:** 14-day zero-fee lending lifecycles, dynamic multi-criteria stock filtering, and personalized authenticated bookshelf portals.
 
-#### Technical Highlights:
-* **Automated Lending Lifecycle System:** Architected a 14-day zero-fee book lending workflow with automatic return calculations, stock availability decrementing, and renewal management.
-* **Reactive Multi-Criteria Catalog Filtering:** Dynamic search and multi-tag filtering engine allowing readers to filter literary volumes across genres, rating thresholds, and current availability status.
+<br/>
 
----
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-## 🛠️ Complete Technical Skill Matrix
+### GitHub Statistics & Top Languages:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=takebul&theme=swift&hide_border=true&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takebul&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a> |
+| ------------- | ------------- |
 
-| Domain | Technologies & Libraries |
-| :--- | :--- |
-| **Frontend Frameworks** | Next.js 16 (App Router), React 19, React Router, React Hook Form |
-| **Styling & Design Systems** | Tailwind CSS v4, HeroUI, DaisyUI, CSS Modules, Responsive UX |
-| **Animation & Kinetic Physics** | GSAP 3 (ScrollTrigger), Lenis Smooth Scroll, HTML5 Canvas, Framer Motion |
-| **Backend & Microservices** | Node.js, Express.js, RESTful API Design, Middleware Architecture, MVC Pattern |
-| **Databases & Cloud Storage** | MongoDB Atlas, Mongoose, ImgBB Cloud API |
-| **Authentication & Security** | Better Auth, JWT (JSON Web Tokens), Remote JWKS, Google OAuth, RBAC |
-| **Payments & Integrations** | Stripe Checkout, Stripe Webhook Event Dispatching |
-| **DevOps & Tooling** | Git, GitHub, Vercel Edge, Render, Netlify, Chrome DevTools, Postman, npm |
-| **AI-Assisted Development** | Google Gemini, GitHub Copilot, Claude, ChatGPT |
+### Contribution Streak Stats:
+<p align="center">
+  <a href="https://github.com/takebul">
+    <img src="https://streak-stats.demolab.com/?user=takebul&theme=swift&hide_border=true" alt="Takebul's GitHub Streak" />
+  </a>
+</p>
 
----
+<br/>
 
-## 📊 GitHub Analytics & Live Activity
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=takebul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Takebul's GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takebul&layout=compact&theme=tokyonight&hide_border=true" alt="Takebul's Top Languages" width="370" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takebul&theme=tokyonight&hide_border=true" alt="Takebul's GitHub Streak" width="780" />
-
-  <br />
-  <br />
-
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=takebul&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
+<!--- random quote --->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
 
-## 📬 Connect & Hiring Channels
-
-I am currently **actively interviewing** and open to discuss new opportunities:
-* **Full-Time Software Engineer / Full-Stack Developer Roles**
-* **Frontend / React / Next.js Specialist Positions**
-* **Worldwide Remote, Hybrid, or Relocation Opportunities**
-
-<div align="center">
-
-| Channel | Details | Link |
-| :--- | :--- | :--- |
-| 📧 **Direct Email** | `takebulislam@gmail.com` | [Send Email](mailto:takebulislam@gmail.com) |
-| 💼 **LinkedIn** | `in/takebulislam` | [Connect on LinkedIn](https://www.linkedin.com/in/takebulislam) |
-| 📱 **Phone / WhatsApp** | `+880 1799-439775` | [Call / Message](tel:+8801799439775) |
-| 📄 **Interactive Resume** | Google Docs (Live Updated) | [View Resume](https://docs.google.com/document/d/1WRY3zXw2sC7Yz-AT9gkw7APiPQ5o9vRXBxy0EzppeZY) |
-| 🌐 **Portfolio Website** | `takebulislam.dev` | [Visit Portfolio](https://takebulislam.dev) |
-| 📍 **Location** | Nazirpur, Pirojpur, Bangladesh | *Open to Worldwide Remote & Relocation* |
-
-<br />
-
-```
-"Passionate about building fast, accessible, and delightful digital products that create tangible impact."
-```
-
-⭐ **Feel free to explore my repositories and star projects you find inspiring!** ⭐
-
-</div>
+<!--- visit count --->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=takebul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
