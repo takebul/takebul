@@ -154,7 +154,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Dev Quote: Good programmers write code that humans can understand. - Martin Fowler" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20want%20to%20create%20logic%2C%20first%20think%20it%2C%20then%20execute%20it.%20If%20your%20thinking%20feels%20slow%2C%20it%20doesn't%20matter%E2%80%94because%20the%20slow%20can%20always%20become%20fast.&author=Takebul%20Islam" alt="Dev Quote: If you want to create logic, first think it, then execute it. If your thinking feels slow, it doesn't matter—because the slow can always become fast. - Takebul Islam" />
 </p>
 
 ---
